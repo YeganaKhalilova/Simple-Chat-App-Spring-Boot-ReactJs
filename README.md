@@ -1,7 +1,7 @@
 
 # Simple Chat App (Spring Boot + ReactJS)
 
-This repository contains the source code for a simple chat application built using Spring Boot for the backend and ReactJS for the frontend.
+This is a simple chat application built using Spring Boot for the backend and ReactJS for the frontend. Web Socket and SockJs are used for establishing connection between backend and frontend.
 
 ## Project Structure
 
@@ -59,4 +59,8 @@ To run the application locally, follow these steps:
 
    The frontend application will be accessible at `http://localhost:3000`.
 
+Troubleshooting
 
+The below issue that might be occured with the WebSocket connection or have trouble setting up the project:
+
+"InvalidStateError: The connection has not been established yet" 
