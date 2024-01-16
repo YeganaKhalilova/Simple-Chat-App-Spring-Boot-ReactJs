@@ -59,13 +59,4 @@ To run the application locally, follow these steps:
 
    The frontend application will be accessible at `http://localhost:3000`.
 
-## Contributing
-
-Feel free to contribute to this project by opening issues, providing feedback, or submitting pull requests. Follow the [Contribution Guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
