@@ -61,6 +61,6 @@ To run the application locally, follow these steps:
 
 Troubleshooting
 
-The below issue that might be occured with the WebSocket connection or have trouble setting up the project:
+The below issue might be occured with the WebSocket connection or have trouble setting up the project:
 
 "InvalidStateError: The connection has not been established yet" 
